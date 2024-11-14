@@ -5,7 +5,7 @@ const Footer = () => {
 				<p className="text-center text-sm leading-loose text-muted-foreground">
 					Built by{" "}
 					<a
-						href="https://github.com/burakorkmez"
+						href="https://github.com/MinorProject-MKC"
 						target="_blank"
 						rel="noreferrer"
 						className="font-medium underline underline-offset-4"
@@ -14,7 +14,7 @@ const Footer = () => {
 					</a>
 					. The source code is available on{" "}
 					<a
-						href="https://github.com/burakorkmez"
+						href="https://github.com/MinorProject-MKC"
 						target="_blank"
 						rel="noreferrer"
 						className="font-medium underline underline-offset-4"
